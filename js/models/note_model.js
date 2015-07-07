@@ -4,7 +4,7 @@ APP.NoteModel = Backbone.Model.extend({
   // you can set any defaults you would like here
   defaults: {
     title: "feature_aa",
-    description: "bbbb",
+    description: "after feature_aa",
     author: "cccc"
   },
 
