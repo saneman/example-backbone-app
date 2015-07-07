@@ -4,8 +4,9 @@ APP.NoteModel = Backbone.Model.extend({
   // you can set any defaults you would like here
   defaults: {
     title: "feature_aa",
-    description: "after feature_aa",
-    author: "after feature_bb"
+    author: "after feature_bb",
+    description: "after feature_cc"
+    
   },
 
   validate: function (attrs) {
